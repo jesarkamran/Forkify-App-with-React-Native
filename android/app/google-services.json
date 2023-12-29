@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "490079803004",
+    "project_id": "forkify-74719",
+    "storage_bucket": "forkify-74719.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490079803004:android:e7d2bec1569bc3177f5bf9",
+        "android_client_info": {
+          "package_name": "com.forkify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490079803004-le1husl9a9uhfrgq760ae15l7scosulr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.forkify",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "490079803004-s4rfapp3r199nfi1gkvbq2q09oekdpjs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADMVVz1-ww-u3Stob4H7n4wJsEofB7Hjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490079803004-s4rfapp3r199nfi1gkvbq2q09oekdpjs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

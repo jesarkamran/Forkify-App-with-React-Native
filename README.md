@@ -20,4 +20,4 @@ This is a new **React Native** project, bootstrapped using [`@react-native-commu
 Clone this repository to your local machine:
 
 ```bash
-git clone <[repository-url](https://github.com/jesarkamran/Forkify-App-with-React-Native)https://github.com/jesarkamran/Forkify-App-with-React-Native>
+git clone https://github.com/jesarkamran/Forkify-App-with-React-Native
